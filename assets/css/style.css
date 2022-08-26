@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300;500&display=swap");
+
+:root {
+  --principalFont: "Raleway", sans-serif;
+}
+
+#bg2-color {
+  background: rgba(30, 26, 19, 1) 0% 0% no-repeat padding-box;
+}
+
+p {
+  font-weight: 300;
+}
+
+footer p {
+  font-size: 1rem;
+}
